@@ -17,3 +17,4 @@ In this work, we employ the newly developed token mixing approach using Fourier 
 - [FNET Approach Notebook](abstractive_transformer_summarizer_with_FNET_transformer_ver2.ipynb)
 - [FNET Approach Python Script](abstractive_transformer_summarizer_with_fnet_transformer.py)
 
+# Fourier_Based_Transformer_Summarization-master
