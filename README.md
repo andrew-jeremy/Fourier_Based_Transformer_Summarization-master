@@ -1,5 +1,3 @@
-# w266_project
-Final Project for w266 Class
 
 ## Project Abstract
 
